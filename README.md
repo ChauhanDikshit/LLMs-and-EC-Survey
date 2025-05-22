@@ -40,6 +40,7 @@ We present a comprehensive and structured survey on the integration of **Evoluti
 ## 📊 Taxonomy Diagram
 
 ![Taxonomy Diagram](figures/intro.png)
+![Taxonomy Diagram](figures/integration_of_ec_and_llm.png)
 
 
 ---
