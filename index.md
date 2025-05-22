@@ -27,10 +27,13 @@ We present a systematic survey of how **LLMs** and **Evolutionary Computation (E
 ## 📚 Citation
 
 ```bibtex
-@article{chauhan2025evolutionary,
-  title={Evolutionary Computation and Large Language Models: A Survey of Methods, Synergies, and Applications},
-  author={Chauhan, Dikshit and Dutta, Bapi and Bala, Indu and van Stein, Niki and Bäck, Thomas and Yadav, Anupam},
-  journal={arXiv preprint arXiv:2505.15741},
-  year={2025}
+@misc{chauhan2025evolutionarycomputationlargelanguage,
+      title={Evolutionary Computation and Large Language Models: A Survey of Methods, Synergies, and Applications}, 
+      author={Dikshit Chauhan and Bapi Dutta and Indu Bala and Niki van Stein and Thomas Bäck and Anupam Yadav},
+      year={2025},
+      eprint={2505.15741},
+      archivePrefix={arXiv},
+      primaryClass={cs.NE},
+      url={https://arxiv.org/abs/2505.15741}, 
 }
 
