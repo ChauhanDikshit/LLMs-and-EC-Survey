@@ -39,8 +39,8 @@ We present a comprehensive and structured survey on the integration of **Evoluti
 
 ## 📊 Taxonomy Diagram
 
-`figures/intro.png`
-*(Include a link to a taxonomy figure or visual if available; e.g., `images/taxonomy.png`)*
+![Taxonomy Diagram](figures/intro.png)
+
 
 ---
 
