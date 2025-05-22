@@ -16,7 +16,7 @@ We present a systematic survey of how **LLMs** and **Evolutionary Computation (E
 
 ## 🧭 Taxonomy Diagram
 
-![Taxonomy Diagram](figures/llm-ec-taxonomy.png)
+![Taxonomy Diagram](figures/intro.png)
 
 ## 📂 Repository Highlights
 
